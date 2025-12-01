@@ -40,7 +40,7 @@ body{
 }
 
 .lobby img{
-
+    filter: drop-shadow(1px 1px 15px rgb(130, 248, 130));
     transform: scale(1);
 
 }
